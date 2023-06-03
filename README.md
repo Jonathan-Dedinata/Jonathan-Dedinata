@@ -3,6 +3,7 @@
 Welcome to my GitHub :octocat: profile. I am [Jonathan Dedinata](https://www.linkedin.com/in/Jonathan-Dedinata), a **#data-analyst/scientist** and **#machine-learning-savant**. I code, I analyze, I debug, and more importantly, I commit.
 
 Ask me about: `Grabbing a Coffee` `Leadership` `Data Analysis` `Startups` `Entrepreneurship` `Great Ideas`
+
 Don't ask me about: `This readme`
 
 #### University and Work
@@ -31,6 +32,10 @@ const jd = {
 ```
 
 #### Industry Certifications
+  
+  [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/WBE9DJAM6FLZ)
+  
+  Soon: AI-900, PL-900, AZ-900, DP-900
 
 #### Recent Projects
 

@@ -33,9 +33,11 @@ const jd = {
 
 #### Industry Certifications
   
+  [Credly](https://www.credly.com/users/jonathan-dedinata)
   [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/WBE9DJAM6FLZ)
+  [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/06e77f64-ea26-45a7-ba3b-73f9e6349886/public_url)
   
-  Soon: AI-900, PL-900, AZ-900, DP-900
+  Soon: PL-900, AZ-900, DP-900
 
 #### Recent Projects
 

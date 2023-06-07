@@ -39,7 +39,9 @@ const jd = {
   
   [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/06e77f64-ea26-45a7-ba3b-73f9e6349886/public_url)
   
-  Soon: PL-900, AZ-900, DP-900
+  [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/964887f7677531615afac483dae2d6ba716a6ebfb5988986c1617d838f0e83a4)
+  
+  In-Progress: DP-900, PL-900, AZ-900, IBM Data Analyst, Career Essentials in Business Analysis by Microsoft and LinkedIn
 
 #### Recent Projects
 

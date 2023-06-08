@@ -38,7 +38,9 @@ const jd = {
   
   [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/964887f7677531615afac483dae2d6ba716a6ebfb5988986c1617d838f0e83a4)
   
-  In-Progress: DP-900, PL-900, AZ-900, IBM Data Analyst, Career Essentials in Business Analysis by Microsoft and LinkedIn
+  [Career Essentials in Business Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/f43b10200c2893b9a54f6b067f6322f50aa752e3ef5a46ef6b11e5c5e4cedab1)
+  
+  In-Progress: DP-900, PL-900, AZ-900, IBM Data Analyst, DP-300
 
 #### Recent Projects
 

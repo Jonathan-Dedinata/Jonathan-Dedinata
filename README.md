@@ -9,11 +9,9 @@ Don't ask me about: `This readme`
 #### University and Work
 
 🎓 Graduated: M.S. Computer Science & B.S. Computer Science and Engineering @ [University of California-Irvine](https://uci.edu)  
-👨🏼‍💻 Former Team Lead & WorldWide Developer Relations @ [Apple](https://github.com/apple)  
+👨🏼‍💻 Former Software Technician Team Lead & WorldWide Developer Relations @ [Apple](https://github.com/apple)  
 
-<details>
-
-<summary>Expand: More About Me...</summary>
+More About Me:
 
 <p>
 
@@ -21,13 +19,12 @@ Don't ask me about: `This readme`
 const jd = {
   pronouns: "he" | "him",
   code: [Python, C++, SQL, R],
-  tools: [GitHub, Azure, Power BI, Tableau],
+  tools: [GitHub, MS Azure, Power BI, Tableau],
   libraries: [PyTorch, TensorFlow/Keras, Pandas, SciPy, NumPy, RegEx, Matplotlib, Scikit-learn, HuggingFace, NLTK, sqlite3],
   Disciplines: [Machine Learning and Data Mining, Data Visualization, ETL Workflows, Deep Learning, Natural Language Processing],
   Models: [Linear Regression, Logistic Regression, KNN, Decision Trees, Gradient Boosting, Support Vector Machines (SVM), K-Means Clustering],
-  architecture: ["microservices", "event-driven", "layered"],
   challenge:
-    "Finish this damn readme. Maybe more certs and a job doesn't sound too bad right about now...",
+    "Get more certifications and landing the dream job.",
 };
 ```
 
@@ -45,4 +42,4 @@ const jd = {
 
 #### Recent Projects
 
-</details>
+  IBM Data Science Capstone

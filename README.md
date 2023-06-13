@@ -34,13 +34,15 @@ const jd = {
   
   [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/WBE9DJAM6FLZ)
   
-  [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/06e77f64-ea26-45a7-ba3b-73f9e6349886/public_url)
+  [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://www.credly.com/badges/06e77f64-ea26-45a7-ba3b-73f9e6349886/public_url)
+
+  [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.credly.com/badges/9979a011-1b87-482d-8b75-4347d43c4ff0/public_url)
   
   [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/964887f7677531615afac483dae2d6ba716a6ebfb5988986c1617d838f0e83a4)
   
   [Career Essentials in Business Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/f43b10200c2893b9a54f6b067f6322f50aa752e3ef5a46ef6b11e5c5e4cedab1)
   
-  In-Progress: DP-900, PL-900, AZ-900, IBM Data Analyst, DP-300
+  In-Progress: DP-900, PL-900, IBM Data Analyst, DP-300, MS-900, SC-900
 
 #### Recent Projects
 

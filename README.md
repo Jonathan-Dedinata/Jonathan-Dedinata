@@ -11,7 +11,10 @@ Don't ask me about: `This readme`
 🎓 Graduated: M.S. Computer Science & B.S. Computer Science and Engineering @ [University of California-Irvine](https://uci.edu)  
 👨🏼‍💻 Former Software Technician Team Lead & WorldWide Developer Relations @ [Apple](https://github.com/apple)  
 
-More About Me:
+
+<details>
+
+<summary>Expand: More About Me...</summary>
 
 <p>
 
@@ -51,3 +54,5 @@ const jd = {
 #### Recent Projects
 
   IBM Data Science Capstone
+
+</details>
